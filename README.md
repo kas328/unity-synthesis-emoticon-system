@@ -4,23 +4,23 @@ Unity drag-and-drop emoticon synthesis system with real-time visual feedback and
 
 ## 🛠 Tech Stack
 
-• Unity 2021.3+
-• C#
-• Unity Editor Extensions
-• DOTween
-• Unity Event System
-• ScriptableObject
-• Coroutines
+- Unity 2021.3+
+- C#
+- Unity Editor Extensions
+- DOTween
+- Unity Event System
+- ScriptableObject
+- Coroutines
 
 ## ⭐ Key Features
 
-• 드래그 앤 드롭 이모티콘 합성
-• 실시간 방향 감지 시스템
-• 파티클 이펙트 연동
-• 커스텀 에디터 툴
-• ScriptableObject 데이터 관리
-• 시각적 피드백 시스템
-• 그리드 기반 UI 관리
+- 드래그 앤 드롭 이모티콘 합성
+- 실시간 방향 감지 시스템
+- 파티클 이펙트 연동
+- 커스텀 에디터 툴
+- ScriptableObject 데이터 관리
+- 시각적 피드백 시스템
+- 그리드 기반 UI 관리
 
 ## 🎮 How It Works
 
@@ -39,7 +39,7 @@ Unity drag-and-drop emoticon synthesis system with real-time visual feedback and
 
 ## 🔧 Editor Tools
 
-• **Custom Inspector**: 그리드 기반 시각적 이모티콘 편집
-• **Editor Window**: 전용 이모티콘 에디터 창
-• **페이지 관리**: 다중 페이지 이모티콘 시스템
-• **실시간 프리뷰**: 변경사항 즉시 확인
+- Custom Inspector: 그리드 기반 시각적 이모티콘 편집
+- Editor Window: 전용 이모티콘 에디터 창
+- 페이지 관리: 다중 페이지 이모티콘 시스템
+- 실시간 프리뷰: 변경사항 즉시 확인
