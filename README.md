@@ -2,7 +2,8 @@
 
 Unity drag-and-drop emoticon synthesis system with real-time visual feedback and custom editor tools
 
-<img width="713" alt="스크린샷 2025-06-11 오후 6 24 20" src="https://github.com/user-attachments/assets/7edf619f-e65e-4ed1-a13b-4eca46180c33" />
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/b7ee1377-5c84-493c-8e18-7dfc991e4b93" />
+
 
 ## 🛠 Tech Stack
 
