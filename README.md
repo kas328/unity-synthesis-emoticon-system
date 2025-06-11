@@ -2,6 +2,8 @@
 
 Unity drag-and-drop emoticon synthesis system with real-time visual feedback and custom editor tools
 
+<img width="713" alt="스크린샷 2025-06-11 오후 6 24 20" src="https://github.com/user-attachments/assets/7edf619f-e65e-4ed1-a13b-4eca46180c33" />
+
 ## 🛠 Tech Stack
 
 - Unity 2021.3+
@@ -38,8 +40,6 @@ Unity drag-and-drop emoticon synthesis system with real-time visual feedback and
 5. **에디터 툴**: 커스텀 인스펙터로 이모티콘 데이터 관리
 
 ## 🔧 Editor Tools
-
-<img width="713" alt="스크린샷 2025-06-11 오후 6 24 20" src="https://github.com/user-attachments/assets/eb3d9637-318a-452e-9ef0-046604867874" />
 
 - **Custom Inspector**: 그리드 기반 시각적 이모티콘 편집
 - **Editor Window**: 전용 이모티콘 에디터 창
