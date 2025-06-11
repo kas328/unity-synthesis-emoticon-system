@@ -39,6 +39,8 @@ Unity drag-and-drop emoticon synthesis system with real-time visual feedback and
 
 ## 🔧 Editor Tools
 
+<img width="713" alt="스크린샷 2025-06-11 오후 6 24 20" src="https://github.com/user-attachments/assets/eb3d9637-318a-452e-9ef0-046604867874" />
+
 - **Custom Inspector**: 그리드 기반 시각적 이모티콘 편집
 - **Editor Window**: 전용 이모티콘 에디터 창
 - **페이지 관리**: 다중 페이지 이모티콘 시스템
